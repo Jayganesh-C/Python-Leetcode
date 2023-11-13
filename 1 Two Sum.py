@@ -1,4 +1,4 @@
-# Two Sum chr
+# Two Sum changes
 class Solution(object):
     def twoSum(self, nums, target):
         """
